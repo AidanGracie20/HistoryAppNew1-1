@@ -1,5 +1,4 @@
 # HistoryAppNew1
- test
 Aidan Gracie
 We were recently given a programming assignment, the point of the assignment was to create a Kotlin program, My close friend Sarah heard I was quite good at making applications, so she has asked me to create an app that when someone enters any random age between 20 and 100, the program will process this number and give an output resulting in a famous person who had passed away at that specific age the user entered. It is very important that we know the age that these famous people passed away, as some of these people have paved the way in their fields, such as Martin Luther King (39) who was one of the most influential activists of all time and Kobe Bryant (41) who was one of the greatest basketball players to ever live, who single handedly made it everyone’s dream to play in the NBA (https://www.famousbirthdays.com/)
 
@@ -43,3 +42,5 @@ References:
 Famous Birthdays – all the ages and famous people used in this essay. https://www.famousbirthdays.com/ [accessed 4 April 2024]
 ChatGPT – some ideas were taken from this site
 https://chat.openai.com/ [accessed 4 April 2024]
+
+YouTube link - https://www.youtube.com/watch?v=WjTRVNBZzUU
